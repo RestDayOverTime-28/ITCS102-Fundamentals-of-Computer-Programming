@@ -18,3 +18,6 @@ print("The quotient of", a, "and", b, "is:", division)
 print("The remainder of", a, "and", b, "is:", modulus)
 print("The result of", a, "raised to the power of", b, "is:", exponential)
 print("The floor division of", a, "and", b, "is:", floorDivision)
+
+# Song: Fly, My Wings [Limbus Company]
+# By: Mili
